@@ -8,7 +8,7 @@
     "Message_History": python-объект класса list,
     "Additional_Info": python-объект класса str,
     "Member_Activities": python-объект класса str,
-    "Joined_At": python-объект класса str,
+    "Joined_At": python-объект класса str
 }
 
 По получении новой информации бот обновит json-файл.
